@@ -67,4 +67,4 @@ def add_s(array)
   end
 end
 
-add_s(['d', 'f', 'g'])
+puts add_s(['d', 'f', 'g'])
